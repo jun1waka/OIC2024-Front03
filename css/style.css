@@ -1,0 +1,9 @@
+/* css/style.css */
+button {
+  margin: 10px;
+}
+
+#counter {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
